@@ -5,11 +5,8 @@ permalink: /imprint
 ---
 
 <br><br><br><br><br><br><br><br><br><br>
-#### German Imprint
-This imprint & privacy note is in German, as the upcoming Relativity Matters GmbH will be a German company, and it's therefore
-required by German Law. Contact us or use translation tools for an english version. 
 
-<hr>
+## Impressum
 
 #### Anbieter und Verantwortliche Person
 Jonathan Evans  
